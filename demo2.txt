@@ -1,4 +1,0 @@
-public static void main(args[] arr){
-int id;
-String name;
-} 
